@@ -28,7 +28,13 @@ A personal finance tracker build with Expo and React Native. Track monthly incom
     npx expo start
     ```
     
-4. **Previw**:
+4. **Troubleshooting**:
+   If you encounter any errors while opening the app, try clearing the cache:
+   ```bash
+   npx expo start --clear   
+   ```
+    
+6. **Previw**:
    Scan the **QR code** displayed in your terminal using the [Expo Go](https://expo.dev/go) app (Android) or the
    Camera app (iOS).
 
