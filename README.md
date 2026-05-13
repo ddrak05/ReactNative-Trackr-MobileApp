@@ -9,7 +9,7 @@ A personal finance tracker build with Expo and React Native. Track monthly incom
 * **Data Visualization**: View monthly spending habits with interactive pie charts and breakdowns based on their category
 * **Transaction History**: Navigate through past months and filter transactions by category or type
 * **Local Persistence**: All data is saved locally on your device using AsyncStorage
-* 
+  
 ## 📦 Installation
 
 1.  **Clone the repository**:
