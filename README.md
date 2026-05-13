@@ -14,7 +14,7 @@ A personal finance tracker build with Expo and React Native. Track monthly incom
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/ddrak05/trackr.git](https://github.com/ddrak05/trackr.git)
+    git clone https://github.com/ddrak05/trackr.git
     cd trackr
     ```
 
